@@ -1,0 +1,7 @@
+1. Install Node.js 20 LTS from https://nodejs.org
+2. Extract this ZIP.
+3. Open the project folder in VS Code.
+4. Open Terminal > New Terminal.
+5. Run: npm install
+6. Run: npm run dev
+7. Open http://localhost:3000
